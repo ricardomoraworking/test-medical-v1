@@ -17,6 +17,7 @@ Other than those requirements, you can build the project anyway you would like.B
 
 ## Solution
 
+the repository is created on Github. for simplicity of the test we will only use 2 branches (dev, main)
 A project was created in Laravel 9, following the specifications.
 For the integration with vue, due to time issues and preventing version problems, Inertia will be used.
 The integrated version Sqlite will be used for the BD solution
