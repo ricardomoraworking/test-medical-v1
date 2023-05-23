@@ -27,17 +27,16 @@ Other than those requirements, you can build the project anyway you would like.B
 ## Results
 
 Form:
-![Screenshot 2023-05-22 at 7 06 20 PM](https://github.com/ricardomoraworking/test-medical-v1/assets/107133350/f0d22b18-5e7c-4b25-87d4-a4f32285c7fa)
+![Screenshot 2023-05-22 at 8 17 46 PM](https://github.com/ricardomoraworking/test-medical-v1/assets/107133350/f3991ace-bd83-413e-9800-c0d5ff71b8e6)
 
 BD Data:
-![Screenshot 2023-05-22 at 7 07 27 PM](https://github.com/ricardomoraworking/test-medical-v1/assets/107133350/fa565bec-2989-45d2-8945-41c72054aebe)
+![Screenshot 2023-05-22 at 8 19 15 PM](https://github.com/ricardomoraworking/test-medical-v1/assets/107133350/836dc405-980b-46ee-ba87-dd61e9f66e1e)
 
 Test
-![Screenshot 2023-05-22 at 7 31 25 PM](https://github.com/ricardomoraworking/test-medical-v1/assets/107133350/8a5d09e8-cb75-49c2-8bb0-e6c0d1daa281)
+![Screenshot 2023-05-22 at 8 19 29 PM](https://github.com/ricardomoraworking/test-medical-v1/assets/107133350/e8d95796-b4b6-4771-b820-52140cc0ff4e)
 
 TimeDev
-![Screenshot 2023-05-22 at 7 31 56 PM](https://github.com/ricardomoraworking/test-medical-v1/assets/107133350/ed39bd4f-63df-48b4-94a4-762201c4d37d)
-
+![Screenshot 2023-05-22 at 8 19 48 PM](https://github.com/ricardomoraworking/test-medical-v1/assets/107133350/fc8b58a7-38ee-4f1c-9125-6849b5855711)
 
 ## Limitations
 1. The time to make the septup of the environment 
