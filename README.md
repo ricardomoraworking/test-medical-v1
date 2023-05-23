@@ -40,4 +40,5 @@ TimeDev
 
 
 ## Limitations
-1. The time to make the septup of the environment
+1. The time to make the septup of the environment 
+2. Some time, without doing laravel, I have been in projects with React, graphql, and node lately, but I consider that I catch up quickly between languages
