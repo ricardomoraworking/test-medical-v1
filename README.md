@@ -21,6 +21,7 @@ Other than those requirements, you can build the project anyway you would like.B
 2. A project was created in Laravel 9, following the specifications.
 3. For the integration with vue, due to time issues and preventing version problems, Inertia will be used.
 4. The integrated version Sqlite will be used for the BD solution
+5. Migrated to Axios due to initial requirements
 
 ## Results
 
