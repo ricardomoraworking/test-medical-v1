@@ -4,6 +4,7 @@ import InputError from '@/Components/InputError.vue';
 import InputLabel from '@/Components/InputLabel.vue';
 import PrimaryButton from '@/Components/PrimaryButton.vue';
 import TextInput from '@/Components/TextInput.vue';
+import axios from 'axios';
 import { Head, useForm } from '@inertiajs/vue3';
 
 const form = useForm({
@@ -15,7 +16,12 @@ const form = useForm({
 });
 
 const submit = () => {
-    form.post(route('register'));
+    axios.post('/register', form)
+      .then(response => {
+        window.location.href = '/dashboard';
+      })
+      .catch(error => {
+      });
 };
 
 </script>

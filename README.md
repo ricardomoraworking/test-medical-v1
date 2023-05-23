@@ -17,16 +17,17 @@ Other than those requirements, you can build the project anyway you would like.B
 
 ## Solution
 
-A project was created in Laravel 9, following the specifications.
-For the integration with vue, due to time issues and preventing version problems, Inertia will be used.
-The integrated version Sqlite will be used for the BD solution
+1. Repository is created on Github. for simplicity of the test we will only use 2 branches (dev, main)
+2. A project was created in Laravel 9, following the specifications.
+3. For the integration with vue, due to time issues and preventing version problems, Inertia will be used.
+4. The integrated version Sqlite will be used for the BD solution
+5. Migrated to Axios due to initial requirements
 
 ## Results
 
 Form:
-
+![Screenshot 2023-05-22 at 7 06 20 PM](https://github.com/ricardomoraworking/test-medical-v1/assets/107133350/f0d22b18-5e7c-4b25-87d4-a4f32285c7fa)
 
 BD Data:
-
-
+![Screenshot 2023-05-22 at 7 07 27 PM](https://github.com/ricardomoraworking/test-medical-v1/assets/107133350/fa565bec-2989-45d2-8945-41c72054aebe)
 
