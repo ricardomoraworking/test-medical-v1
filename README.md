@@ -22,6 +22,7 @@ Other than those requirements, you can build the project anyway you would like.B
 3. For the integration with vue, due to time issues and preventing version problems, Inertia will be used.
 4. The integrated version Sqlite will be used for the BD solution
 5. Migrated to Axios due to initial requirements
+6. tests added for validate endpoint, and the render of the register view.
 
 ## Results
 
@@ -31,3 +32,8 @@ Form:
 BD Data:
 ![Screenshot 2023-05-22 at 7 07 27 PM](https://github.com/ricardomoraworking/test-medical-v1/assets/107133350/fa565bec-2989-45d2-8945-41c72054aebe)
 
+Test
+
+
+## Limitations
+1. The time to make the septup of the environment
